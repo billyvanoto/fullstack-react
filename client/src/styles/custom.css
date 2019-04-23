@@ -1,0 +1,30 @@
+.chart-legend{
+  border: 1px solid black;
+  display: inline-block;
+  vertical-align:middle;
+  width: 23px;
+  height: 23px;
+}
+.yes{
+  background-color: #009688;
+}
+.no{
+  background-color: #ffc107;
+}
+.bg-color{
+  background-color: #00bcd4;
+}
+.center-img{
+  margin-left:auto;
+  margin-right: auto;
+}
+.sidenav li{
+  text-align: center;
+}
+.sidenav li a{
+  color: white
+}
+.container{
+  margin-top:15px;
+  margin-bottom:15px;
+}
